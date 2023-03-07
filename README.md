@@ -12,3 +12,4 @@ This project use Go to solve the problems on the Leetcode platform.
 |        14. Longest Common Prefix        |    Easy    |  3 ms   | 2.4 MB | 07-03-2023 |       [File](./src/14.LongestCommonPrefix.go)       |
 |          20. Valid Parentheses          |    Easy    |  2 ms   | 2.2 MB | 07-03-2023 |        [File](./src/20.ValidParentheses.go)         |
 | 26. Remove Duplicates from Sorted Array |    Easy    |  4 ms   | 4.4 MB | 07-03-2023 | [File](./src/26.RemoveDuplicatesfromSortedArray.go) |
+|           27. Remove Element            |    Easy    |  0 ms   | 2.1 MB | 07-03-2023 |          [File](./src/27.RemoveElement.go)          |
